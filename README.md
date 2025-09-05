@@ -3,15 +3,13 @@
   
   <br>
   
-  ## 안녕하세요! 👋 AI와 소프트웨어 개발자를 꿈꾸는 이현서입니다.
+  ## 안녕하세요! 👋 게임 개발자를 꿈꾸는 이현서입니다.
   
-  <p>이곳에 자신을 소개하는 글을 자유롭게 작성해주세요.</p>
-  <p>예: 새로운 기술을 배우는 것을 좋아하고, 동료들과 함께 성장하는 것에 가치를 둡니다.</p>
+  <p>Unity 2D 게임 개발 중</p>
   
   <br>
   
   [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/아이디)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/아이디)
   
 </div>
 
