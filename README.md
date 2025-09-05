@@ -18,7 +18,7 @@
 ## 🎓 학력
 ---
 <div align="center">
-  <p><strong>한신대학교</strong> AI.SW계열 재학 (20XX.XX ~ )</p>
+  <p><strong>한신대학교</strong> AI.SW계열 재학</p>
 </div>
 
 <br>
@@ -26,8 +26,8 @@
 ## 🛠️ 기술 스택
 ---
 <div align="center">
-  <p>사용할 수 있는 기술 스택의 아이콘을 추가하여 자신을 어필해보세요!</p>
-  <p>예시:</p>
+  <p>C, C#</p>
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
@@ -38,15 +38,14 @@
 ## 📂 프로젝트
 ---
 <div align="center">
-  <p>진행했던 프로젝트에 대해 자유롭게 작성해주세요.</p>
-  <p>팀/개인 프로젝트, 기간, 역할, 사용 기술 등을 포함하면 좋습니다.</p>
+  <p>Unity 2D 게임 제작 스터디</p>
   <br>
   
-  ### PROJECT 1. (프로젝트 명)
-  <p>프로젝트에 대한 간단한 설명</p>
+  ### PROJECT 1. (공룡런)
+  <p>장애물 피하기 게임</p>
   
-  ### PROJECT 2. (프로젝트 명)
-  <p>프로젝트에 대한 간단한 설명</p>
+  ### PROJECT 2. (Driver)
+  <p>자동차를 운전해 상품을 수령, 배송하는 게임</p>
 </div>
 
 <br>
