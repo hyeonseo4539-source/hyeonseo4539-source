@@ -49,8 +49,7 @@
 ## 📞 연락처
 ---
 <div align="center">
-  <p>이메일, 링크드인 등 연락할 수 있는 정보를 남겨주세요.</p>
-  <p><strong>Email:</strong> your-email@example.com</p>
+  <p><strong>Email:</strong> hyeonseo4539@hs.ac.kr</p>
 </div>
 
 <br>
