@@ -5,7 +5,7 @@
   
   ## 안녕하세요!😊 게임 개발자를 꿈꾸는 이현서입니다.
   
-  <p>Unity 2D 게임 개발</p>
+  <p>2D 게임 개발</p>
   
   <br>
   
@@ -46,7 +46,7 @@
 
 <br>
 
-## 📞 연락처
+## 📞 정보
 ---
 <div align="center">
   <p><strong>Email:</strong> hyeonseo4539@hs.ac.kr</p>
