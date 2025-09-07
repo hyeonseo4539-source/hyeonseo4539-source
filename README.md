@@ -18,6 +18,7 @@
 ## 🎓 학력
 ---
 <div align="center">
+  <p><strong>휘경여자고등학교</strong> 졸업</p>
   <p><strong>한신대학교</strong> AI.SW계열 재학</p>
 </div>
 
