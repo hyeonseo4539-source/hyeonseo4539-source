@@ -41,8 +41,7 @@
   ### PROJECT 1. (공룡런)
   <p>장애물 피하기 게임</p>
   
-  ### PROJECT 2. (Driver)
-  <p>자동차를 운전해 상품을 수령, 배송하는 게임</p>
+  ### PROJECT 2. (진행중)
 </div>
 
 <br>
@@ -55,8 +54,19 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer" width="100%"/>
-
 ## 수강일지
 --- 
- 
+<div align="center">
+  <p>Udemy C# Unity 게임 개발자 2D</p>
+  <br>
+  
+  ### PROJECT 1. Driver
+  <p>자동차를 운전해 상품을 수령, 배송하는 게임</p>
+  
+  ### PROJECT 2. SnowBoader
+  <p>스노보더를 조종해 무사히 목적지에 도착해야 하는 게임</p>
+</div>
+
+<br> 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer" width="100%"/>
