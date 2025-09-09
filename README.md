@@ -62,13 +62,14 @@
   
   ## PROJECT 1. Driver
   ### 자동차를 운전해 물품을 수령, 배송하는 게임
-  ## 구현기능
+  ### 구현기능
 
 - Drive (키보드를 활용해 자동차를 조종)  
 - FollowCamera (카메라가 자동차를 따라 움직임)  
 - Delivery (Package를 수령해 Customer에게 배송)  
 - Destroy (Package를 수령하면 사라짐)  
 - Boost/Bump (Trigger를 지나치면 가속, 장애물에 충돌 후 감속)
+<br>
   
   ## PROJECT 2. SnowBoader
   ### 스노보더를 조종해 무사히 목적지에 도착해야 하는 게임
