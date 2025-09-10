@@ -73,8 +73,12 @@
   
   ## PROJECT 2. SnowBoader
   <p>스노보더를 조종해 무사히 목적지에 도착해야 하는 게임</p>
-</div>
 
+### &nbsp;&nbsp;구현기능
+
+- CinemachineFollowingCamera
+- Surface Effector
+- 추가중
 <br> 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer" width="100%"/>
