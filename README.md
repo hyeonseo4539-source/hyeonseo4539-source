@@ -76,7 +76,7 @@
 
 ### &nbsp;&nbsp;구현기능
 
-- CinemachineFollowingCamera
+- CinemachineFollowingCamera ()
 - Surface Effector ()
 - 추가중
 <br> 
