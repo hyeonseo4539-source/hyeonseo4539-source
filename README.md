@@ -76,7 +76,7 @@
 
 ### &nbsp;&nbsp;구현기능
 
-- CinemachineFollowingCamera ()
+- CinemachineFollowingCamera (시네머신을 활용한)
 - Surface Effector (x축 방향으로 미는 효과)
 - 추가중
 <br> 
