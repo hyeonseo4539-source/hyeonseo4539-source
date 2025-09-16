@@ -78,7 +78,7 @@
 
 - CinemachineFollowingCamera (시네머신을 활용한)
 - Surface Effector (x축 방향으로 미는 효과)
-- Framing Transposer ()
+- Framing Transposer (특정 대상을 프레이밍해서 바디 이동)
 <br> 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer" width="100%"/>
