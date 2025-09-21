@@ -59,10 +59,10 @@
   <p>Udemy C# Unity 게임 개발자 2D</p>
   <br>
   
-  ## PROJECT 1. Driver
+  ### PROJECT 1. Driver
   <p>자동차를 운전해 물품을 수령, 배송하는 게임</p>
 
-### &nbsp;&nbsp;구현기능
+#### &nbsp;&nbsp;구현기능
 
 - Drive (키보드를 활용해 자동차를 조종)  
 - FollowCamera (카메라가 자동차를 따라 움직임)  
@@ -71,10 +71,10 @@
 - Boost/Bump (Trigger를 지나치면 가속, 장애물에 충돌 후 감속)
 <br>
   
-  ## PROJECT 2. SnowBoader
+  ### PROJECT 2. SnowBoader
   <p>스노보더를 조종해 무사히 목적지에 도착해야 하는 게임</p>
 
-### &nbsp;&nbsp;구현기능
+#### &nbsp;&nbsp;구현기능
 
 - CinemachineFollowingCamera (시네머신을 활용한)
 - Surface Effector (x축 방향으로 미는 효과)
