@@ -56,9 +56,9 @@
 
 ## 🧑‍💻 수강일지
 --- 
-  <p>Udemy C# Unity 게임 개발자 2D</p>
+  <p>[Udemy: C# Unity 게임 개발자] 2D</p>
   
-  ### PROJECT 1. Driver
+### PROJECT 1. Driver
   <p>자동차를 운전해 물품을 수령, 배송하는 게임</p>
 
 #### &nbsp;&nbsp;구현기능
@@ -67,12 +67,14 @@
 - Delivery (Package를 수령해 Customer에게 배송)  
 - Destroy (Package를 수령하면 사라짐)  
 - Boost/Bump (Trigger를 지나치면 가속, 장애물에 충돌 후 감속)
+<br>
+
   
-  ### PROJECT 2. SnowBoader
+### PROJECT 2. SnowBoader
   <p>스노보더를 조종해 목적지로 안전하게 이동하는 게임</p>
 
 #### &nbsp;&nbsp;구현기능
-- CinemachineFollowingCamera (시네머신을 활용한)
+- CinemachineFollowingCamera (시네머신을 활용한 캐릭터 추적 카메라)
 - Surface Effector (x축 방향으로 미는 효과)
 - Framing Transposer (특정 대상을 프레이밍해서 바디 이동)
 - 캐릭터의 머리 충돌시 게임 종료
