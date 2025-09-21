@@ -57,13 +57,11 @@
 ## 🧑‍💻 수강일지
 --- 
   <p>Udemy C# Unity 게임 개발자 2D</p>
-  <br>
   
   ### PROJECT 1. Driver
   <p>자동차를 운전해 물품을 수령, 배송하는 게임</p>
 
 #### &nbsp;&nbsp;구현기능
-
 - Drive (키보드를 활용해 자동차를 조종)  
 - FollowCamera (카메라가 자동차를 따라 움직임)  
 - Delivery (Package를 수령해 Customer에게 배송)  
@@ -75,7 +73,6 @@
   <p>스노보더를 조종해 무사히 목적지에 도착해야 하는 게임</p>
 
 #### &nbsp;&nbsp;구현기능
-
 - CinemachineFollowingCamera (시네머신을 활용한)
 - Surface Effector (x축 방향으로 미는 효과)
 - Framing Transposer (특정 대상을 프레이밍해서 바디 이동)
