@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="KakaoTalk_20251031_193656704.jpg" width="100%"/>
+  <img src="KakaoTalk_20251031_193656704.jpg" width="50%"/>
   
   <br>
   
