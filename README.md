@@ -1,5 +1,10 @@
-<img src="KakaoTalk_20251031_193656704.jpg" width="50%"/>
-<img src="KakaoTalk_20251031_193656704_01.jpg" width="50%"/>
+<table>
+  <tr>
+    <td><img src="KakaoTalk_20251031_193656704.jpg" width="100%"/></td>
+    <td><img src="KakaoTalk_20251031_193656704_01.jpg" width="100%"/></td>
+  </tr>
+</table>
+
 <div align="center">
   <br>
   
