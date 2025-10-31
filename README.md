@@ -1,6 +1,5 @@
+<img src="KakaoTalk_20251031_193656704.jpg" width="50%"/>
 <div align="center">
-  <img src="KakaoTalk_20251031_193656704.jpg" width="50%"/>
-  
   <br>
   
   ## 안녕하세요 ✪ ω ✪
