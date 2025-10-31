@@ -1,4 +1,5 @@
 <img src="KakaoTalk_20251031_193656704.jpg" width="50%"/>
+<img src="KakaoTalk_20251031_193656704_01.jpg" width="50%"/>
 <div align="center">
   <br>
   
