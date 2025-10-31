@@ -32,20 +32,6 @@
 
 <br>
 
-## 📂 프로젝트
----
-<div align="center">
-  <p>Unity 2D 게임 제작 스터디</p>
-  <br>
-  
-  ### PROJECT 1. (공룡런)
-  <p>장애물 피하기 게임</p>
-  
-  ### PROJECT 2. (진행예정)
-</div>
-
-<br>
-
 ## 📞 정보
 ---
 <div align="center">
@@ -60,6 +46,11 @@
   
 ### PROJECT 1. Driver
   <p>자동차를 운전해 물품을 수령, 배송하는 게임</p>
+
+#### 🎮 게임 플레이하기
+
+게임 다운로드는 [Releases 페이지](https://github.com/hyeonseo4539-source/hyeonseo4539-source/releases/tag/v0.1)에서 받으실 수 있습니다.
+파일 다운로드-압축 풀기-experimenting 더블클릭
 
 #### &nbsp;&nbsp;구현기능
 - Drive (키보드를 활용해 자동차를 조종)  
