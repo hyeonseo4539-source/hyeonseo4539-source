@@ -62,7 +62,7 @@
 <br>
 
   
-### PROJECT 2. SnowBoader
+### PROJECT 2. SnowBoader(제작 중..)
   <p>스노보더를 조종해 목적지로 안전하게 이동하는 게임</p>
 
 #### &nbsp;&nbsp;구현기능
@@ -71,5 +71,3 @@
 - Framing Transposer (특정 대상을 프레이밍해서 바디 이동)
 - 캐릭터의 머리 충돌시 게임 종료
 <br> 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer" width="100%"/>
