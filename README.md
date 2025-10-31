@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=180&section=header&text=Hyeonseo%20Lee&fontSize=90" width="100%"/>
+  <img src="https://data.onnada.com/character/201507/1030033388_5b59bc9f_387388.jpg" width="100%"/>
   
   <br>
   
-  ## 안녕하세요😊 게임 개발자를 꿈꾸는 이현서입니다.
+  ## 안녕하세요 ✪ ω ✪ 게임 개발자를 꿈꾸는 이현서입니다.
   
   <p>2D 게임 개발</p>
   
@@ -43,11 +43,10 @@
 ### PROJECT 1. Driver
   <p>자동차를 운전해 물품을 수령, 배송하는 게임</p>
 
-#### 🎮 게임 플레이하기
+#### &nbsp;&nbsp;게임 플레이하기
 
-게임 다운로드는 [Releases 페이지](https://github.com/hyeonseo4539-source/hyeonseo4539-source/releases/tag/v0.1)에서 받으실 수 있습니다.
-<br>
-파일 다운로드-압축 풀기-experimenting 더블클릭
+- 게임 다운로드는 [Releases 페이지](https://github.com/hyeonseo4539-source/hyeonseo4539-source/releases/tag/v0.1)에서 받으실 수 있습니다.
+- 파일 다운로드-압축 풀기-experimenting 더블클릭
 
 #### &nbsp;&nbsp;구현기능
 - Drive (키보드를 활용해 자동차를 조종)  
