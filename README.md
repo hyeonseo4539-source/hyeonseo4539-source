@@ -7,10 +7,6 @@
   
   <p>2D 게임 개발</p>
   
-  <br>
-  
-  [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/아이디)
-  
 </div>
 
 <br>
@@ -50,6 +46,7 @@
 #### 🎮 게임 플레이하기
 
 게임 다운로드는 [Releases 페이지](https://github.com/hyeonseo4539-source/hyeonseo4539-source/releases/tag/v0.1)에서 받으실 수 있습니다.
+<br>
 파일 다운로드-압축 풀기-experimenting 더블클릭
 
 #### &nbsp;&nbsp;구현기능
