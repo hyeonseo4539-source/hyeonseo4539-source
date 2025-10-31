@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://data.onnada.com/character/201507/1030033388_5b59bc9f_387388.jpg" width="100%"/>
+  <img src="KakaoTalk_20251031_193656704.jpg" width="100%"/>
   
   <br>
   
-  ## 안녕하세요 ✪ ω ✪ 게임 개발자를 꿈꾸는 이현서입니다.
+  ## 안녕하세요 ✪ ω ✪
+  ## 게임 개발자를 꿈꾸는 이현서입니다.
   
   <p>2D 게임 개발</p>
   
